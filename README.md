@@ -1,8 +1,14 @@
 - 👋 Hi, @imjustCodex
-- I’m interested in Fivem scripting and Lua
-- I’m currently learning Lua, Python and JS
+- I’m interested in Fivem scripting in Lua and Unity Game Development.
+- I’m currently learning Lua, Python and C#
+
 - How to reach me ? :
 
-Discord : ' c0dex#2359
+### Discord : ' c0dex#2359
 
-Mail : iamerenbasaran@gmail.com
+### Mail :  iamerenbasaran@gmail.com
+
+### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/50/000000/visual-studio.png"/> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
