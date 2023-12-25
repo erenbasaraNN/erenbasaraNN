@@ -4,7 +4,7 @@
 
 - How to reach me ? :
 
-### Discord : ' codex#2359
+### Discord : erenbasaran
 
 ### Mail :  iamerenbasaran@gmail.com
 
