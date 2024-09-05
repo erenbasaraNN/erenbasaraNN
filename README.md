@@ -1,7 +1,7 @@
-- 👋 Hi, @imjustCodex
-- I’m interested in Fivem scripting in Lua and Unity Game Development.
-- I’m currently learning Lua, Python and C#
+- 👋 Hi, I'm Eren
 
+- I’m currently developing myself in PHP, Lua, Python and SQL
+- 
 - How to reach me ? :
 
 ### Discord : erenbasaran
