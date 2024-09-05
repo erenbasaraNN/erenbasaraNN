@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Eren
 
 - I’m currently developing myself in PHP, Lua, Python and SQL
-- 
+
 - How to reach me ? :
 
 ### Discord : erenbasaran
