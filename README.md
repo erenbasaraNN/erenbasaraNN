@@ -10,5 +10,4 @@
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/50/000000/visual-studio.png"/> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjustCodex&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
